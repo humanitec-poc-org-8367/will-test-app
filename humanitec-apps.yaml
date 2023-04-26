@@ -1,0 +1,11 @@
+---
+id: "will-test-app"
+name: "will-test-app"
+
+automations:
+  development:
+    - active: true
+      exclude_images_filter: false
+      images_filter: []
+      type: update
+      update_to: branch
